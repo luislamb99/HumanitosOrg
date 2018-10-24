@@ -1,0 +1,41 @@
+{
+  "Title": "Exemple de traduction",
+  "Intro": "Bonjour je m'appelle {{name}}, j'ai {{age}} ans.",
+  "Startpage": {
+    "TranslationSections": "Bonjour Monde"
+  },
+  "Aboutpage": {
+    "TranslationSections": "Cet organisme à but non lucratif cherche à aider les enfants colombiens à se lancer dans des carrières fondées sur la technologie."
+  },
+  "Navbar": {
+    "La_Fundacion": "La Fondation",
+    "Sami": "Sami",
+    "Viajero": "Voyageur",
+    "Contacto": "Contact",
+    "Donaciones": "Des dons"
+  },
+  "Home": {
+    "Abril": "Avril",
+    "Pregunta": "Qu'est-ce que Humanitos?",
+    "Mas": "Lire plus"
+  },
+  "Correo": {
+    "Julio": "Juillet",
+    "Nuevo": "Nouvel email",
+    "Descripcion": "Si vous souhaitez communiquer avec nous, écrivez à"
+  },
+  "Ingles": {
+    "Mayo": "Mai",
+    "Titulo": "Anglais pour tous",
+    "Descripcion": "En 2017, nous avons développé la première partie du projet anglais pour tous. Le Colegio La Presentacion de Chinácota et le Colegio Guillermo Cote Bautista de Toledo ont été les premiers bénéficiaires de cette nouvelle façon d'apprendre une langue étrangère. Trois cours destinés aux élèves de dixième et onzième années ont commencé un voyage dans cinq pays différents afin de découvrir la valeur et l’intérêt d’autres cultures. Dans cette vidéo, le recteur de l’école de présentation de Chinácota, un enseignant et cinq étudiants de Toledo, Ils nous racontent leur expérience.",
+    "Comparte": "Partager sur vos réseaux sociaux préférés:",
+    "Voluntario": "Voulez-vous faire du bénévolat?",
+    "Contactenos": "Nous contacter"
+  },
+  "Cinco": {
+    "Junio": "Juin",
+    "Visitamos": "Nous visitons la capitale russe.",
+    "Descripcion": "Moscou est une ville merveilleuse, rejoignez-nous pour connaître ce lieu, siège de la Coupe du monde de football: Russie 2018.",
+    "Ver": "Voir vidéo"
+  }
+}

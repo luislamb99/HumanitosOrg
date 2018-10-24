@@ -1,0 +1,41 @@
+{
+  "Title": "Translation example",
+  "Intro": "Hello I am {{name}}, I am {{age}} years old.",
+  "Startpage": {
+    "TranslationSections": "Hello World"
+  },
+  "Aboutpage": {
+    "TranslationSections": "This is a non-profit organization that seeks to help children in Colombia to get involved in technology-based careers"
+  },
+  "Navbar": {
+    "La_Fundacion": "The foundation",
+    "Sami": "Sami",
+    "Viajero": "Traveler",
+    "Contacto": "Contact",
+    "Donaciones": "Donations"
+  },
+  "Home": {
+    "Abril": "April",
+    "Pregunta": "What is Humanitos?",
+    "Mas": "Read more"
+  },
+  "Correo": {
+  "Julio": "July",
+  "Nuevo": "New email",
+  "Descripcion": "If you wish to communicate with us, write to"
+  },
+  "Ingles": {
+    "Mayo": "May",
+    "Titulo": "English for all",
+    "Descripcion": "In 2017, we developed the first part of the English project for all. The Colegio La Presentacion de Chinácota and the Colegio Guillermo Cote Bautista de Toledo were the first beneficiaries of this new way of learning a foreign language. Three courses of tenth and eleventh grade students, started a trip through five different countries, to find the valuable and interesting of other cultures. In this video, the rector of the Presentation School of Chinácota, a teacher and five students from Toledo, They tell us their Experience.",
+    "Comparte": "Share on your favorite social networks:",
+    "Voluntario": "Do you want to volunteer?",
+    "Contactenos": "Contact Us"
+  },
+  "Cinco": {
+    "Junio": "June",
+    "Visitamos": "We visit the Russian capital.",
+    "Descripcion": "Moscou est une ville merveilleuse, rejoignez-nous pour connaître ce lieu, siège de la Coupe du monde de football: Russie 2018.",
+    "Ver": "Watch video"
+  }
+}

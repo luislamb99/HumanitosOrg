@@ -1,0 +1,61 @@
+<section id="banner">
+  <img src="assets/img/humanitos_cacota.jpg" alt="humanitos cacota" >
+  <div class="contenedor">
+    <p class=actualizacion>5 {{ 'Home.Abril' | translate }} 2018</p>
+    <h1 class="title">{{ 'Home.Pregunta' | translate }}</h1>
+    <a routerLink="/fundacion" class="button">{{ 'Home.Mas' | translate }}</a>
+  </div>
+</section>
+
+<section id="email">
+  <div>
+    <p class=actualizacion>4 {{ 'Correo.Julio' | translate }} 2018</p>
+    <h1 class="title text-center">{{ 'Correo.Nuevo' | translate }}</h1>
+    <p class="explanation text-center">{{ 'Correo.Descripcion' | translate }} <a href="mailto:info@humanitos.org">info@humanitos.org</a> </p>
+  </div>
+</section>
+
+<section id="inglesparatodos">
+  <p class=actualizacion> 7 {{ 'Ingles.Mayo' | translate }} 2018</p>
+  <div class="contenedor">
+    <h2><a href="content/nosotros/nosotros-es.html#proyectos">{{ 'Ingles.Titulo' | translate }}</a></h2>
+    <article>
+      <p class="explanation text-justify">{{ 'Ingles.Descripcion' | translate }}</p>
+      <iframe src="https://www.youtube.com/embed/y9QnfCxAKag?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </article>
+  </div>
+
+  <div class="d-flex justify-content-center">
+    <div class="p-2 bd-highlight">
+      {{ 'Ingles.Comparte' | translate }}
+    </div>
+  </div>
+
+  <div class="d-flex justify-content-center">
+    <div class="p-2 bd-highlight">
+      <share-buttons [theme]="'material-light'"
+                     [include]="['facebook','twitter','linkedin','pinterest','reddit','tumblr','whatsapp','telegram']"
+                     [exclude]="['google','linkedin','vk','stumble','xing','sms','email','copy','print']"
+                     [show]="7"
+                     [size]="10"
+                     [url]="'https://youtu.be/y9QnfCxAKag'"
+                     [title]="'Ingles para todos'"
+      ></share-buttons>
+    </div>
+  </div>
+
+  <div id="contacto_voluntario">
+    <p class="explanation">{{ 'Ingles.Voluntario' | translate }}</p>
+    <a href="content/contacto/contacto-es.html#correo" class="button"><span>{{ 'Ingles.Contactenos' | translate }}</span></a>
+  </div>
+</section>
+
+<section id="cinco">
+  <p class=actualizacion>7 {{ 'Cinco.Junio' | translate }} 2018</p>
+  <div>
+    <h1 class="title">{{ 'Cinco.Visitamos' | translate }}</h1>
+    <p class="explanation">{{ 'Cinco.Descripcion' | translate }}</p>
+  </div>
+  <a href="content/sami/sami-es.html#cinco" class="button">{{ 'Cinco.Ver' | translate }}</a>
+</section>
+

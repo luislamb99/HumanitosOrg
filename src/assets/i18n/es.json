@@ -1,0 +1,42 @@
+{
+  "Title": "Ejemplo de Traducción",
+  "Intro": "Hola soy {{name}}, y tengo {{age}} años.",
+  "Startpage": {
+    "TranslationSections": "Hola Mundo"
+  },
+  "Aboutpage": {
+    "TranslationSections": "Esta es una organización sin animo de lucro que busca ayudar a niños de Colombia a involucrarse en carreras de base tecnológica"
+  },
+  "Navbar": {
+    "La_Fundacion": "La Fundación",
+    "Sami": "Sami",
+    "Viajero": "Viajero",
+    "Contacto": "Contacto",
+    "Donaciones": "Donaciones"
+  },
+  "Home": {
+    "Abril": "Abril",
+    "Pregunta": "¿Qué es Humanitos?",
+    "Mas": "Leer más"
+  },
+  "Correo": {
+    "Julio": "Julio",
+    "Nuevo": "Nuevo correo electrónico",
+    "Descripcion": "Si deseas comunicarte con nosotros, escríbenos a"
+  },
+  "Ingles": {
+    "Mayo": "Mayo",
+    "Titulo": "Inglés para todos",
+    "Descripcion": "En 2017, desarrollamos la primera parte del proyecto Inglés para todos. El Colegio la Presentación de Chinácota y el Colegio Guillermo Cote Bautista de Toledo, fueron los primeros beneficiarios, de esta nueva forma de aprender un idioma extranjero. Tres cursos de estudiantes de décimo y once grado, emprendieron un viaje por cinco países diferentes, para encontrar lo valioso e interesante de otras culturas.En este video, la rectora del Colegio de la Presentación de Chinácota, una docente y cinco estudiantes de Toledo, nos cuentan su Experiencia.",
+    "Comparte": "Comparte en tus redes sociales favoritas:",
+    "Voluntario": "¿Desea ser voluntario?",
+    "Contactenos": "Contáctenos"
+  },
+  "Cinco": {
+    "Junio": "Junio",
+    "Visitamos": "Visitamos la capital Rusa.",
+    "Descripcion": "Moscú; es una ciudad maravillosa, acompañanos a conocer este lugar, sede del mundial de Futbol: Rusia 2018.",
+    "Ver": "Ver video"
+  }
+
+}

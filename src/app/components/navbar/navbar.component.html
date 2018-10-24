@@ -1,0 +1,41 @@
+<header>
+
+  <nav id="menu">
+    <div id="movil">
+      <font id=Hu>Hu</font><font id="manitos">manitos</font>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+      <div id='menu-list'>
+        <ul>
+          <li><a routerLink="/fundacion">{{ 'Navbar.La_Fundacion' | translate }}</a></li>
+          <li><a routerLink="/sami">Sami</a></li>
+          <li><a routerLink="/viajero">{{ 'Navbar.Viajero' | translate }}</a></li>
+          <li id='logo'><a routerLink=""><img src='assets/img/humanitos_logo_principal.png' alt="logo"></a></li>
+          <li><a routerLink="/contacto">{{ 'Navbar.Contacto' | translate }}</a></li>
+          <li><a routerLink="/donaciones">{{ 'Navbar.Donaciones' | translate }}</a></li>
+          <li>&nbsp;</li>
+          <li>
+            <img (click)="switchLanguage('es')" src="assets/img/lang-es.png" alt="spanish" height="30" width="30">
+          </li>
+
+          <li>&nbsp;</li>
+
+          <li>
+            <img (click)="switchLanguage('en')" src="assets/img/lang-en.png" alt="english" height="30" width="30">
+          </li>
+
+          <li>&nbsp;</li>
+
+          <li>
+            <img (click)="switchLanguage('fr')" src="assets/img/lang-fr.png" alt="french" height="30" width="30">
+          </li>
+
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
